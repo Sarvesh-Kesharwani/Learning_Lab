@@ -1,0 +1,66 @@
+{
+  "egypt_travel_plan": [
+    {
+      "day": "Day 1",
+      "destination": "Cairo",
+      "key_activities": [
+        "Arrival",
+        "Hotel check-in",
+        "Nile dinner cruise"
+      ]
+    },
+    {
+      "day": "Day 2",
+      "destination": "Giza",
+      "key_activities": [
+        "Pyramids of Giza",
+        "Sphinx",
+        "Solar Boat Museum"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "destination": "Cairo",
+      "key_activities": [
+        "Egyptian Museum",
+        "Khan El Khalili Bazaar",
+        "Islamic Cairo"
+      ]
+    },
+    {
+      "day": "Day 4",
+      "destination": "Luxor",
+      "key_activities": [
+        "Flight to Luxor",
+        "Karnak & Luxor Temples"
+      ]
+    },
+    {
+      "day": "Day 5",
+      "destination": "Luxor",
+      "key_activities": [
+        "Valley of the Kings",
+        "Hatshepsut Temple",
+        "Colossi of Memnon"
+      ]
+    },
+    {
+      "day": "Day 6",
+      "destination": "Aswan",
+      "key_activities": [
+        "Train/flight to Aswan",
+        "Philae Temple",
+        "Nubian Village"
+      ]
+    },
+    {
+      "day": "Day 7",
+      "destination": "Cairo",
+      "key_activities": [
+        "Return to Cairo",
+        "Souvenir shopping",
+        "Departure"
+      ]
+    }
+  ]
+}
